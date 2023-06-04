@@ -28,4 +28,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar2930&show_icons=true&locale=en" alt="tushar2930" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar2930&" alt="tushar2930" /></p>
+<h2 align="center">✍️ Random Dev Quote</h2>
 
+<div>
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
+
+</div>
+
+<hr/>
